@@ -1,7 +1,7 @@
 # Running
 ## Mac
-1. Right click on ``server.sh`` and clicking ``open with`` -> ``Other...`` ![open1.png](./.res/open.png) 
-2. Navigate to to ``Utilities`` -> ``Terminal`` and click ``open`` ![open1.png](./.res/open2.png)
+1. Right click on ``server.sh`` and clicking ``open with`` -> ``Other...`` ![open1.png](./.res/open1.png) 
+2. Navigate to to ``Utilities`` -> ``Terminal`` and click ``open`` ![open2.png](./.res/open2.png)
 3. Type ``server.sh`` and hit enter. Hit ``Deny`` when asked if you want to accept incoming network connections. ![open1.png](./.res/popup.png) 
 4. Navigate to the lesson outputs with the following links
   * [lesson 0](http://localhost:8000/lesson0/)
